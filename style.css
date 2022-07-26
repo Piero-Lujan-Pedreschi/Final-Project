@@ -1,0 +1,34 @@
+.brand, .link {
+  color: #193A6F;
+}
+
+.heading {
+  margin-top: 100px;
+  border: 2px red solid
+}
+
+.heading-text {
+  text-align: center;
+  color: #193A6F;
+}
+
+.card {
+  background-color: #193A6F;
+}
+
+.card-title {
+  color: #fb9b50;
+  
+}
+
+.card-text {
+  color: #ECE5DF;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 2px red solid;
+}
